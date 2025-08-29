@@ -22,10 +22,7 @@ This project helps in identifying potentially fraudulent financial transactions 
 ├── fraud_detection_pipline.pkl # Trained ML model pipeline
 └── README.md # Project documentation
 
-yaml
-Copy code
-
----
+DataSet:https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset
 
 ## ⚙️ Installation  
 
